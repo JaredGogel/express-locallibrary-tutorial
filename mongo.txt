@@ -1,0 +1,1 @@
+mongodb+srv://locallibraryuser:admin@cluster0.jglb5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority

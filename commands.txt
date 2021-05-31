@@ -1,0 +1,16 @@
+ > cd express-locallibrary-tutorial
+
+   install dependencies:
+     > npm install
+
+   run the app (Bash (Linux or macOS))
+     > DEBUG=express-locallibrary-tutorial:* npm start
+
+   run the app (PowerShell (Windows))
+     > $ENV:DEBUG = "express-locallibrary-tutorial:*"; npm start
+
+   run the app (Command Prompt (Windows)):
+     > SET DEBUG=express-locallibrary-tutorial:* & npm start
+
+    run the app with restart on changes(Command Prompt (Windows)):
+        > SET DEBUG=express-locallibrary-tutorial:* & npm run devstart
